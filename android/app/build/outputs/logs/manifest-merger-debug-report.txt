@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-ble-plx] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-plx/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9035fd63c027c690ca6b65eb7c3e2bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7ccbf0182aae98f5b2e3639c1ea152c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/88dac06ac827052639084c446a1ae6de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2dfddf5f94e7eb362f9005cfcbda2d7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8111f74eede13841eaced9c440b54c0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b89abe32bbd6f9f44618dd13397be691/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6817aadb960badb8b1fd6e84059170fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/javier/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0b0699457af25bb35fd25a088a8f0881/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/6e46ee59ebfa839c070f97df50d7b0e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b888339d5218e0651bce3fabc43bdfce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb2473bceda37056fcc814a1a0bb7a18/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/javier/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a72c37e54dd61ce76feeb24aab4f63fd/AndroidManifest.xml:1:1-3:12
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.2.0] /home/javier/.gradle/caches/transforms-1/files-1.1/proguard-rules-1.3.2.0.aar/c874f9925e34b17565105f9a14e9e897/AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/202276f8757aee74aedc6020a76ef273/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7a1262a00035f88e4240968091c136f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/2b426aa3d4a283aadc058386b1ac4016/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80244cb1709dfa1f4398191a24791197/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efd800e4e52a8d58ef374753683dcc24/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1db12a03448990b22c9454667983055b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4f9ba2a009e2d8a0d03264cdc9e3db9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d80ca145273ff1544dc2364f63045795/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-68
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:7:5-73
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-74
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:12:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:8:5-87
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:14:5-88
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:8:29-85
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:10:5-89
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:35
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:10:64-87
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:10:19-63
+application
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:13:5-20
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:16:5-53
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:16:5-53
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb2473bceda37056fcc814a1a0bb7a18/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb2473bceda37056fcc814a1a0bb7a18/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/javier/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a72c37e54dd61ce76feeb24aab4f63fd/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/javier/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a72c37e54dd61ce76feeb24aab4f63fd/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:13:7-38
+activity#com.bletest.MainActivity
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:18:7-27:18
+	android:label
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-plx] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-plx/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-ble-plx] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-plx/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/javier/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bcf3b1f694e4c48f3aa5d594d63916bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9035fd63c027c690ca6b65eb7c3e2bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9035fd63c027c690ca6b65eb7c3e2bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.4.3] /home/javier/.gradle/caches/transforms-1/files-1.1/rxandroidble-1.4.3.aar/c1cb20fa31373427ad1a41584f143c15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7ccbf0182aae98f5b2e3639c1ea152c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7ccbf0182aae98f5b2e3639c1ea152c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/88dac06ac827052639084c446a1ae6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/88dac06ac827052639084c446a1ae6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2dfddf5f94e7eb362f9005cfcbda2d7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2dfddf5f94e7eb362f9005cfcbda2d7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8111f74eede13841eaced9c440b54c0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8111f74eede13841eaced9c440b54c0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b89abe32bbd6f9f44618dd13397be691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b89abe32bbd6f9f44618dd13397be691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6817aadb960badb8b1fd6e84059170fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/javier/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6817aadb960badb8b1fd6e84059170fb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/javier/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0b0699457af25bb35fd25a088a8f0881/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/javier/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0b0699457af25bb35fd25a088a8f0881/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/6e46ee59ebfa839c070f97df50d7b0e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/6e46ee59ebfa839c070f97df50d7b0e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b888339d5218e0651bce3fabc43bdfce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b888339d5218e0651bce3fabc43bdfce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb2473bceda37056fcc814a1a0bb7a18/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb2473bceda37056fcc814a1a0bb7a18/AndroidManifest.xml:2:3-70
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.2.0] /home/javier/.gradle/caches/transforms-1/files-1.1/proguard-rules-1.3.2.0.aar/c874f9925e34b17565105f9a14e9e897/AndroidManifest.xml:8:5-43
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.2.0] /home/javier/.gradle/caches/transforms-1/files-1.1/proguard-rules-1.3.2.0.aar/c874f9925e34b17565105f9a14e9e897/AndroidManifest.xml:8:5-43
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/202276f8757aee74aedc6020a76ef273/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/202276f8757aee74aedc6020a76ef273/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7a1262a00035f88e4240968091c136f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7a1262a00035f88e4240968091c136f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/2b426aa3d4a283aadc058386b1ac4016/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/2b426aa3d4a283aadc058386b1ac4016/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80244cb1709dfa1f4398191a24791197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/javier/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80244cb1709dfa1f4398191a24791197/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efd800e4e52a8d58ef374753683dcc24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efd800e4e52a8d58ef374753683dcc24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1db12a03448990b22c9454667983055b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1db12a03448990b22c9454667983055b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4f9ba2a009e2d8a0d03264cdc9e3db9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4f9ba2a009e2d8a0d03264cdc9e3db9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d80ca145273ff1544dc2364f63045795/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/javier/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d80ca145273ff1544dc2364f63045795/AndroidManifest.xml:20:5-44
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-ble-manager] /home/javier/Documents/Apps/React/bleTest/node_modules/react-native-ble-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/javier/Documents/Apps/React/bleTest/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
